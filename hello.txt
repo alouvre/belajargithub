@@ -1,2 +1,1 @@
 hari ini kita akan melakukan coding
-bahasa pemrograman yang digunakan adalah bahasa pemrograman python
