@@ -1,2 +1,3 @@
 hari ini kita akan melakukan coding
 bahasa pemrograman yang digunakan adalah bahasa pemrograman python
+pertama-tama kita akan mempelajari sejarah mengenai bahasa pemrograman python.
